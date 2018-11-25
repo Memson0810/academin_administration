@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fa96b13-ab6a-4ef3-baaf-24362de7205c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/0816scratch$scratch_56.coverage" NAME="scratch_56 Coverage Results" MODIFIED="1540375654292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/0816scratch$.coverage" NAME="教师界面 Coverage Results" MODIFIED="1540350885665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TeachingManager$.coverage" NAME="登录界面 Coverage Results" MODIFIED="1543154642324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/0816scratch$neededFunction.coverage" NAME="neededFunction Coverage Results" MODIFIED="1540350873803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/0816scratch$king.coverage" NAME="king Coverage Results" MODIFIED="1540350776038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="king.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/king.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1474">
+              <caret line="42" column="8" lean-forward="false" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1542056244000" expanded="true" signature="141:162" ph="select ios f... timu2" />
+                <marker date="1542056244000" expanded="true" signature="357:403" ph="select * fro... timu2" />
+                <marker date="1542056244000" expanded="true" signature="1082:1122" ph="update mark " />
+                <marker date="1542056244000" expanded="true" signature="1278:1311" ph="select mark mark" />
+                <marker date="1542056244000" expanded="true" signature="1432:1465" ph="select mark mark" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="neededFunction.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neededFunction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3102">
+              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1542056244000" expanded="true" signature="448:475" ph="select stuNa... stuInfo" />
+                <marker date="1542056244000" expanded="true" signature="693:726" ph="select stuId... stuInfo" />
+                <marker date="1542056244000" expanded="true" signature="1052:1085" ph="select teaId... teaInfo" />
+                <marker date="1542056244000" expanded="true" signature="1539:1576" ph="select tmip score" />
+                <marker date="1542056244000" expanded="true" signature="1751:1792" ph="update score... " />
+                <marker date="1542056244000" expanded="true" signature="2284:2330" ph="insert into timu2... " />
+                <marker date="1542056244000" expanded="true" signature="3530:3549" ph="select * fro... timu2" />
+                <marker date="1542056244000" expanded="true" signature="4325:4359" ph="select num f... timu2" />
+                <marker date="1542056244000" expanded="true" signature="5902:5936" ph="select mark mark" />
+                <marker date="1542056244000" expanded="true" signature="6108:6145" ph="update mark " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="studentview.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/studentview.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="teacherview.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teacherview.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#140#306#0" expanded="false" />
+                <element signature="e#326#380#0" expanded="false" />
+                <element signature="e#406#462#0" expanded="false" />
+                <element signature="e#481#493#0" expanded="false" />
+                <element signature="e#513#1297#0" expanded="false" />
+                <element signature="e#1319#1801#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1353">
+              <caret line="41" column="14" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_56.py" />
+        <option value="$PROJECT_DIR$/neededFunction.py" />
+        <option value="$PROJECT_DIR$/登录界面.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TeachingManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeachingManager" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.登录界面">
+    <configuration name="学生界面" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="0816scratch" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\360极速浏览器下载\TeachingManager-master\TeachingManager\studentview.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="教师界面" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="0816scratch" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/教师界面.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="教师界面" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="0816scratch" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\360极速浏览器下载\TeachingManager-master\TeachingManager\teacherview.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="登录界面" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="0816scratch" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\360极速浏览器下载\TeachingManager-master\TeachingManager\login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="neededFunction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="0816scratch" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/neededFunction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="scratch_56" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="0816scratch" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_56.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.学生界面" />
+      <item index="1" class="java.lang.String" itemvalue="Python.neededFunction" />
+      <item index="2" class="java.lang.String" itemvalue="Python.scratch_56" />
+      <item index="3" class="java.lang.String" itemvalue="Python.教师界面" />
+      <item index="4" class="java.lang.String" itemvalue="Python.登录界面" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.登录界面" />
+        <item index="1" class="java.lang.String" itemvalue="Python.教师界面" />
+        <item index="2" class="java.lang.String" itemvalue="Python.学生界面" />
+        <item index="3" class="java.lang.String" itemvalue="Python.scratch_56" />
+        <item index="4" class="java.lang.String" itemvalue="Python.neededFunction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fa96b13-ab6a-4ef3-baaf-24362de7205c" name="Default" comment="" />
+      <created>1540350014573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540350014573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1386" height="788" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26998493" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2868098" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32822084" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/king.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="42" column="8" lean-forward="false" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1542056244000" expanded="true" signature="141:162" ph="select ios f... timu2" />
+            <marker date="1542056244000" expanded="true" signature="357:403" ph="select * fro... timu2" />
+            <marker date="1542056244000" expanded="true" signature="1082:1122" ph="update mark " />
+            <marker date="1542056244000" expanded="true" signature="1278:1311" ph="select mark mark" />
+            <marker date="1542056244000" expanded="true" signature="1432:1465" ph="select mark mark" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacherview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#140#306#0" expanded="false" />
+            <element signature="e#326#380#0" expanded="false" />
+            <element signature="e#406#462#0" expanded="false" />
+            <element signature="e#481#493#0" expanded="false" />
+            <element signature="e#513#1297#0" expanded="false" />
+            <element signature="e#1319#1801#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neededFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1542056244000" expanded="true" signature="448:475" ph="select stuNa... stuInfo" />
+            <marker date="1542056244000" expanded="true" signature="693:726" ph="select stuId... stuInfo" />
+            <marker date="1542056244000" expanded="true" signature="1052:1085" ph="select teaId... teaInfo" />
+            <marker date="1542056244000" expanded="true" signature="1539:1576" ph="select tmip score" />
+            <marker date="1542056244000" expanded="true" signature="1751:1792" ph="update score... " />
+            <marker date="1542056244000" expanded="true" signature="2284:2330" ph="insert into timu2... " />
+            <marker date="1542056244000" expanded="true" signature="3530:3549" ph="select * fro... timu2" />
+            <marker date="1542056244000" expanded="true" signature="4325:4359" ph="select num f... timu2" />
+            <marker date="1542056244000" expanded="true" signature="5902:5936" ph="select mark mark" />
+            <marker date="1542056244000" expanded="true" signature="6108:6145" ph="update mark " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/king.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="42" column="8" lean-forward="false" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1542056244000" expanded="true" signature="141:162" ph="select ios f... timu2" />
+            <marker date="1542056244000" expanded="true" signature="357:403" ph="select * fro... timu2" />
+            <marker date="1542056244000" expanded="true" signature="1082:1122" ph="update mark " />
+            <marker date="1542056244000" expanded="true" signature="1278:1311" ph="select mark mark" />
+            <marker date="1542056244000" expanded="true" signature="1432:1465" ph="select mark mark" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacherview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#140#306#0" expanded="false" />
+            <element signature="e#326#380#0" expanded="false" />
+            <element signature="e#406#462#0" expanded="false" />
+            <element signature="e#481#493#0" expanded="false" />
+            <element signature="e#513#1297#0" expanded="false" />
+            <element signature="e#1319#1801#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neededFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1542056244000" expanded="true" signature="448:475" ph="select stuNa... stuInfo" />
+            <marker date="1542056244000" expanded="true" signature="693:726" ph="select stuId... stuInfo" />
+            <marker date="1542056244000" expanded="true" signature="1052:1085" ph="select teaId... teaInfo" />
+            <marker date="1542056244000" expanded="true" signature="1539:1576" ph="select tmip score" />
+            <marker date="1542056244000" expanded="true" signature="1751:1792" ph="update score... " />
+            <marker date="1542056244000" expanded="true" signature="2284:2330" ph="insert into timu2... " />
+            <marker date="1542056244000" expanded="true" signature="3530:3549" ph="select * fro... timu2" />
+            <marker date="1542056244000" expanded="true" signature="4325:4359" ph="select num f... timu2" />
+            <marker date="1542056244000" expanded="true" signature="5902:5936" ph="select mark mark" />
+            <marker date="1542056244000" expanded="true" signature="6108:6145" ph="update mark " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/king.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="42" column="8" lean-forward="false" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1542056244000" expanded="true" signature="141:162" ph="select ios f... timu2" />
+            <marker date="1542056244000" expanded="true" signature="357:403" ph="select * fro... timu2" />
+            <marker date="1542056244000" expanded="true" signature="1082:1122" ph="update mark " />
+            <marker date="1542056244000" expanded="true" signature="1278:1311" ph="select mark mark" />
+            <marker date="1542056244000" expanded="true" signature="1432:1465" ph="select mark mark" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacherview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#140#306#0" expanded="false" />
+            <element signature="e#326#380#0" expanded="false" />
+            <element signature="e#406#462#0" expanded="false" />
+            <element signature="e#481#493#0" expanded="false" />
+            <element signature="e#513#1297#0" expanded="false" />
+            <element signature="e#1319#1801#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neededFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1542056244000" expanded="true" signature="448:475" ph="select stuNa... stuInfo" />
+            <marker date="1542056244000" expanded="true" signature="693:726" ph="select stuId... stuInfo" />
+            <marker date="1542056244000" expanded="true" signature="1052:1085" ph="select teaId... teaInfo" />
+            <marker date="1542056244000" expanded="true" signature="1539:1576" ph="select tmip score" />
+            <marker date="1542056244000" expanded="true" signature="1751:1792" ph="update score... " />
+            <marker date="1542056244000" expanded="true" signature="2284:2330" ph="insert into timu2... " />
+            <marker date="1542056244000" expanded="true" signature="3530:3549" ph="select * fro... timu2" />
+            <marker date="1542056244000" expanded="true" signature="4325:4359" ph="select num f... timu2" />
+            <marker date="1542056244000" expanded="true" signature="5902:5936" ph="select mark mark" />
+            <marker date="1542056244000" expanded="true" signature="6108:6145" ph="update mark " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/king.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="42" column="8" lean-forward="false" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1542056244000" expanded="true" signature="141:162" ph="select ios f... timu2" />
+            <marker date="1542056244000" expanded="true" signature="357:403" ph="select * fro... timu2" />
+            <marker date="1542056244000" expanded="true" signature="1082:1122" ph="update mark " />
+            <marker date="1542056244000" expanded="true" signature="1278:1311" ph="select mark mark" />
+            <marker date="1542056244000" expanded="true" signature="1432:1465" ph="select mark mark" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacherview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#140#306#0" expanded="false" />
+            <element signature="e#326#380#0" expanded="false" />
+            <element signature="e#406#462#0" expanded="false" />
+            <element signature="e#481#493#0" expanded="false" />
+            <element signature="e#513#1297#0" expanded="false" />
+            <element signature="e#1319#1801#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neededFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1542056244000" expanded="true" signature="448:475" ph="select stuNa... stuInfo" />
+            <marker date="1542056244000" expanded="true" signature="693:726" ph="select stuId... stuInfo" />
+            <marker date="1542056244000" expanded="true" signature="1052:1085" ph="select teaId... teaInfo" />
+            <marker date="1542056244000" expanded="true" signature="1539:1576" ph="select tmip score" />
+            <marker date="1542056244000" expanded="true" signature="1751:1792" ph="update score... " />
+            <marker date="1542056244000" expanded="true" signature="2284:2330" ph="insert into timu2... " />
+            <marker date="1542056244000" expanded="true" signature="3530:3549" ph="select * fro... timu2" />
+            <marker date="1542056244000" expanded="true" signature="4325:4359" ph="select num f... timu2" />
+            <marker date="1542056244000" expanded="true" signature="5902:5936" ph="select mark mark" />
+            <marker date="1542056244000" expanded="true" signature="6108:6145" ph="update mark " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/king.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="42" column="8" lean-forward="false" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1542056244000" expanded="true" signature="141:162" ph="select ios f... timu2" />
+            <marker date="1542056244000" expanded="true" signature="357:403" ph="select * fro... timu2" />
+            <marker date="1542056244000" expanded="true" signature="1082:1122" ph="update mark " />
+            <marker date="1542056244000" expanded="true" signature="1278:1311" ph="select mark mark" />
+            <marker date="1542056244000" expanded="true" signature="1432:1465" ph="select mark mark" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacherview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#140#306#0" expanded="false" />
+            <element signature="e#326#380#0" expanded="false" />
+            <element signature="e#406#462#0" expanded="false" />
+            <element signature="e#481#493#0" expanded="false" />
+            <element signature="e#513#1297#0" expanded="false" />
+            <element signature="e#1319#1801#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neededFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1542056244000" expanded="true" signature="448:475" ph="select stuNa... stuInfo" />
+            <marker date="1542056244000" expanded="true" signature="693:726" ph="select stuId... stuInfo" />
+            <marker date="1542056244000" expanded="true" signature="1052:1085" ph="select teaId... teaInfo" />
+            <marker date="1542056244000" expanded="true" signature="1539:1576" ph="select tmip score" />
+            <marker date="1542056244000" expanded="true" signature="1751:1792" ph="update score... " />
+            <marker date="1542056244000" expanded="true" signature="2284:2330" ph="insert into timu2... " />
+            <marker date="1542056244000" expanded="true" signature="3530:3549" ph="select * fro... timu2" />
+            <marker date="1542056244000" expanded="true" signature="4325:4359" ph="select num f... timu2" />
+            <marker date="1542056244000" expanded="true" signature="5902:5936" ph="select mark mark" />
+            <marker date="1542056244000" expanded="true" signature="6108:6145" ph="update mark " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/king.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="42" column="17" lean-forward="false" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1542056244000" expanded="true" signature="141:162" ph="select ios f... timu2" />
+            <marker date="1542056244000" expanded="true" signature="357:403" ph="select * fro... timu2" />
+            <marker date="1542056244000" expanded="true" signature="1082:1122" ph="update mark " />
+            <marker date="1542056244000" expanded="true" signature="1278:1311" ph="select mark mark" />
+            <marker date="1542056244000" expanded="true" signature="1432:1465" ph="select mark mark" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacherview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#140#306#0" expanded="false" />
+            <element signature="e#326#380#0" expanded="false" />
+            <element signature="e#406#462#0" expanded="false" />
+            <element signature="e#481#493#0" expanded="false" />
+            <element signature="e#513#1297#0" expanded="false" />
+            <element signature="e#1319#1801#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="29" lean-forward="true" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neededFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1542056244000" expanded="true" signature="448:475" ph="select stuNa... stuInfo" />
+            <marker date="1542056244000" expanded="true" signature="693:726" ph="select stuId... stuInfo" />
+            <marker date="1542056244000" expanded="true" signature="1052:1085" ph="select teaId... teaInfo" />
+            <marker date="1542056244000" expanded="true" signature="1539:1576" ph="select tmip score" />
+            <marker date="1542056244000" expanded="true" signature="1751:1792" ph="update score... " />
+            <marker date="1542056244000" expanded="true" signature="2284:2330" ph="insert into timu2... " />
+            <marker date="1542056244000" expanded="true" signature="3530:3549" ph="select * fro... timu2" />
+            <marker date="1542056244000" expanded="true" signature="4325:4359" ph="select num f... timu2" />
+            <marker date="1542056244000" expanded="true" signature="5902:5936" ph="select mark mark" />
+            <marker date="1542056244000" expanded="true" signature="6108:6145" ph="update mark " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/datetime.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_56.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/packaging_tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3240">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/king.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1474">
+          <caret line="42" column="8" lean-forward="false" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1542056244000" expanded="true" signature="141:162" ph="select ios f... timu2" />
+            <marker date="1542056244000" expanded="true" signature="357:403" ph="select * fro... timu2" />
+            <marker date="1542056244000" expanded="true" signature="1082:1122" ph="update mark " />
+            <marker date="1542056244000" expanded="true" signature="1278:1311" ph="select mark mark" />
+            <marker date="1542056244000" expanded="true" signature="1432:1465" ph="select mark mark" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neededFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3102">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1542056244000" expanded="true" signature="448:475" ph="select stuNa... stuInfo" />
+            <marker date="1542056244000" expanded="true" signature="693:726" ph="select stuId... stuInfo" />
+            <marker date="1542056244000" expanded="true" signature="1052:1085" ph="select teaId... teaInfo" />
+            <marker date="1542056244000" expanded="true" signature="1539:1576" ph="select tmip score" />
+            <marker date="1542056244000" expanded="true" signature="1751:1792" ph="update score... " />
+            <marker date="1542056244000" expanded="true" signature="2284:2330" ph="insert into timu2... " />
+            <marker date="1542056244000" expanded="true" signature="3530:3549" ph="select * fro... timu2" />
+            <marker date="1542056244000" expanded="true" signature="4325:4359" ph="select num f... timu2" />
+            <marker date="1542056244000" expanded="true" signature="5902:5936" ph="select mark mark" />
+            <marker date="1542056244000" expanded="true" signature="6108:6145" ph="update mark " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacherview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#140#306#0" expanded="false" />
+            <element signature="e#326#380#0" expanded="false" />
+            <element signature="e#406#462#0" expanded="false" />
+            <element signature="e#481#493#0" expanded="false" />
+            <element signature="e#513#1297#0" expanded="false" />
+            <element signature="e#1319#1801#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1353">
+          <caret line="41" column="14" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
